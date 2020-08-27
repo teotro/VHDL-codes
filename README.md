@@ -2,7 +2,7 @@
 Various VHDL codes from course "Digital VLSI Systems" 2020
 
 In Lab1 we have initially separate combinational from sequential implementations. In "Combinational" folder you can find the implementations of the combinational 
-Half Adder (HA), Full Adder (FA), Ripple Carry Adder (RCA) and BCD-4bit-Adder circuits. Each evaluation has its own testbench.
+Half Adder (HA), Full Adder (FA), Ripple Carry Adder (RCA) and BCD-4bit-Adder circuits. Indeed, each evaluation has its own testbench.
 In "Sequential" folder there is a FA sequential and on top of that we implement a RCA and a 4-bit multiplier with the pipeline technique.
 
 
