@@ -8,6 +8,6 @@ In "Sequential" folder there is a FA sequential and on top of that we implement 
 
 
 In Lab2 we implement in Task1 an 8-tap FIR filter using a Multiply-Accumulate Circuit (MAC) along with Rom and Ram circuits.
-In Task2 we evaluate a pipelined 8-tap FIR filter and in Task3 we implement a parallel pipelined 8-tap Filter.
+In Task2 we evaluate a pipelined 8-tap FIR filter and in Task3 we implement a parallel pipelined 8-tap Filter with 2 inputs.
 
 
